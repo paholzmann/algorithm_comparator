@@ -17,7 +17,7 @@ class SelectionSort():
 
     def algorithm(self):
         """
-        Sorts all numbers in the list ascending order using selection sort.
+        Sorts all numbers in the list in ascending order using selection sort.
 
         Retruns:
             list: Sorted list in ascending order
